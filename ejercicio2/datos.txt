@@ -1,0 +1,4 @@
+10 20 --- Suma: 30 --- Multiplicación: 200
+5 50 --- Suma: 55 --- Multiplicación: 250
+10 4 --- Suma: 14 --- Multiplicación: 40
+50 12 --- Suma: 62 --- Multiplicación: 600
